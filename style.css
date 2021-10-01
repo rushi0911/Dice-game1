@@ -1,0 +1,19 @@
+.container{
+  text-align: center;
+  position: relative;
+  background-color:antiquewhite;
+}
+.dice1{
+ 
+  position: absolute;
+  left: 25%;
+  
+
+}
+.dice2{
+ 
+  position: absolute;
+  right: 25%;
+  
+
+}
